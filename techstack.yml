@@ -2,7 +2,7 @@ repo_name: bolens/govee2mqtt
 report_id: 9f5cb6da1f0fd6a28fd9c65512428548
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-18T23:49:03+00:00'
+timestamp: '2024-02-29T20:06:27+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
